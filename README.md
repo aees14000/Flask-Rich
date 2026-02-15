@@ -1,4 +1,7 @@
 > [!NOTE]
+> **This repo is a fork that I have not done anything with yet.
+
+> [!NOTE]
 > **This repository is an official fork of the original [BD103/Flask-Rich](https://github.com/BD103/Flask-Rich) project.** All releases after 0.3 will be published from this fork.
 ---
 
